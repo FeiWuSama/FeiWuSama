@@ -1,17 +1,12 @@
 # 👨‍💻 你好，我是 FeiWuSama
 
-> 一位专注于后端开发的 Java & Go 语言学习者 & 程序员，参与过Hutool
+> 一位专注于后端开发的 Java & Go 语言学习者 & 程序员，参与过Hutool工具库的源码贡献
 
 ---
 
 ## 📊 GitHub 数据分析
 
 <div align="center">
-  
-  ![FeiWuSama's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeiWuSama&show_icons=true&theme=radical&hide_title=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeiWuSama&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FeiWuSama&theme=github-compact&area=true&hide_border=true" alt="贡献图" width="100%"/>
 </div>
 
@@ -36,7 +31,7 @@
 | 项目 | 描述 | 技术栈 |
 |------|------|--------|
 | **[易扣ai](https://github.com/FeiWuSama/yikou-ai-feiwu)** | 基于langchain4j开发的零代码应用生成平台 | Java 21, Spring Boot 3, MySQL, Redis, Langchain4j |
-| **[ai旅游大师]([链接](https://github.com/FeiWuSama/trip-agent))** | 旅游规划智能体大师 | Java 21, Spring Boot 3, MySQL, Spring AI Alibaba, 阿里云通义平台 |
+| **[ai旅游大师](https://github.com/FeiWuSama/trip-agent)** | 旅游规划智能体大师 | Java 21, Spring Boot 3, MySQL, Spring AI Alibaba, 阿里云通义平台 |
 
 ---
 
@@ -45,5 +40,5 @@
 欢迎交流技术问题、学习心得或合作机会！
 
 *   **邮箱**：1825578184@qq.com
-*   **个人网站**：[[https://your.blog.com](http://feiwusama.dilidiliclub.online/)]
+*   **个人网站** http://feiwusama.dilidiliclub.online/
 ---
