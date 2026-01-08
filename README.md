@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👨‍💻 你好，我是 FeiWuSama
 
-<!--
-**FeiWuSama/FeiWuSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 一位专注于后端开发的 Java & Go 语言学习者 & 程序员，参与过Hutool
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub 数据分析
+
+<div align="center">
+  
+  ![FeiWuSama's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeiWuSama&show_icons=true&theme=radical&hide_title=true&count_private=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeiWuSama&layout=compact&theme=radical&hide_border=true&langs_count=6)
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FeiWuSama&theme=github-compact&area=true&hide_border=true" alt="贡献图" width="100%"/>
+</div>
+
+---
+
+## 🎯 当前学习与实践重点
+
+### **Java 生态深入**
+*   **AI架构**：基于 Langchain4j 和 Spring AI Alibaba 构建高可用的ai服务
+*   **性能优化**：并发编程与高并发解决方案
+*   **设计模式**：在实际项目中应用经典设计模式
+
+### **Go 语言探索**
+*   **高并发实践**：Goroutine 与 Channel 的高效使用模式
+*   **框架使用**：使用 Gin 和 GoFrame 等框架 构建基本的项目基础
+*   **标准库研究**：深入理解 net/http、context 等核心包
+
+---
+
+## 🌱 近期项目展示
+
+| 项目 | 描述 | 技术栈 |
+|------|------|--------|
+| **[易扣ai](https://github.com/FeiWuSama/yikou-ai-feiwu)** | 基于langchain4j开发的零代码应用生成平台 | Java 21, Spring Boot 3, MySQL, Redis, Langchain4j |
+| **[ai旅游大师]([链接](https://github.com/FeiWuSama/trip-agent))** | 旅游规划智能体大师 | Java 21, Spring Boot 3, MySQL, Spring AI Alibaba, 阿里云通义平台 |
+
+---
+
+## 📫 联系我
+
+欢迎交流技术问题、学习心得或合作机会！
+
+*   **邮箱**：1825578184@qq.com
+*   **个人网站**：[https://your.blog.com](http://feiwusama.dilidiliclub.online/)
+---
