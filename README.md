@@ -1,6 +1,6 @@
 # 👨‍💻 你好，我是 FeiWuSama
 
-> 一位专注于后端开发的 Java & Go 语言学习者 & 程序员，参与过国内知名Java工具库Hutool的pr贡献
+> 一位专注于后端开发的 Java & Go 语言学习者，参与过国内知名Java工具库Hutool的pr贡献
 
 ---
 
