@@ -7,7 +7,7 @@
 ## 📊 个人仓库语言比例
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeiWuSama&layout=compact&theme=default&hide_border=true&langs_count=8" alt="最常用语言" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeiWuSama&layout=pie&hide_border=true" alt="语言比例" width="60%"/>
 </div>
 
 ---
