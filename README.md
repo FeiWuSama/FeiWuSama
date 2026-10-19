@@ -6,7 +6,26 @@
 
 ##  个人 GitHub 数据分析
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeiWuSama&layout=pie&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <h3>我常用语言分布</h3>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FeiWuSama&layout=pie&langs_count=8&size_weight=0.5&count_weight=0.5&locale=cn&theme=github_dark&hide_border=true&border_radius=16&card_width=520"
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeiWuSama&layout=pie&langs_count=8&size_weight=0.5&count_weight=0.5&locale=cn&theme=default&hide_border=true&border_radius=16&card_width=520"
+        alt="FeiWuSama 的常用语言饼图"
+        width="520"
+      />
+    </picture>
+  </a>
+
+  <br/>
+  <sub>点击饼图查看 github-readme-stats</sub>
+</div>
 
 ---
 
