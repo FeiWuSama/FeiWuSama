@@ -6,9 +6,7 @@
 
 ##  个人 GitHub 数据分析
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FeiWuSama&theme=github-compact&area=true&hide_border=true" alt="贡献图" width="100%"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeiWuSama&layout=pie&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
