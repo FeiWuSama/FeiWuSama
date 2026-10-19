@@ -7,9 +7,7 @@
 ##  个人 GitHub 数据分析
 
 <div align="center">
-  <h3>我常用语言分布</h3>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
