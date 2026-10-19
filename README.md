@@ -16,7 +16,6 @@
     />
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeiWuSama&layout=pie&langs_count=8&size_weight=0.5&count_weight=0.5&locale=cn&theme=default&hide_border=true&border_radius=16"
-      alt="FeiWuSama 的常用语言饼图"
     />
   </picture>
 </div>
