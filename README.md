@@ -7,17 +7,18 @@
 ##  个人 GitHub 数据分析
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FeiWuSama&layout=pie&langs_count=8&size_weight=0.5&count_weight=0.5&locale=cn&theme=github_dark&hide_border=true&border_radius=16&card_width=520"
-      />
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeiWuSama&layout=pie&langs_count=8&size_weight=0.5&count_weight=0.5&locale=cn&theme=default&hide_border=true&border_radius=16&card_width=520"
-        alt="FeiWuSama 的常用语言饼图"
-        width="520"
-      />
-  </a>
+  <h3>最常用的语言</h3>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FeiWuSama&layout=pie&langs_count=8&size_weight=0.5&count_weight=0.5&locale=cn&theme=github_dark&hide_border=true&border_radius=16"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeiWuSama&layout=pie&langs_count=8&size_weight=0.5&count_weight=0.5&locale=cn&theme=default&hide_border=true&border_radius=16"
+      alt="FeiWuSama 的常用语言饼图"
+    />
+  </picture>
 </div>
 
 ---
