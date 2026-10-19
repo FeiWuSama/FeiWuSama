@@ -7,8 +7,6 @@
 ##  个人 GitHub 数据分析
 
 <div align="center">
-  <h3>最常用的语言</h3>
-
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
